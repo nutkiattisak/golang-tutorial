@@ -1,0 +1,2 @@
+# golang tutorial
+ ฝึกเขียน Go
